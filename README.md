@@ -157,7 +157,7 @@ This project uses [LimeSurvey Community Edition](https://github.com/LimeSurvey/L
 ## 👤 Author
 
 **Nomi**
-- GitHub: [@nomi](https://github.com)
+- GitHub: [@ferozahmadkhan](https://github.com)
 - Survey: [surveybynomi.great-site.net](https://surveybynomi.great-site.net)
 
 ---
